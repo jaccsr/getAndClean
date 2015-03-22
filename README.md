@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
 
 ## Introduction
-This is the repo for the project of Getting and Cleaning Data on cosera.
+This is the repo for the project of Getting and Cleaning Data on coursera.
 
 The original data is downloaded from: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
